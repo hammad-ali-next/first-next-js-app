@@ -1,3 +1,3 @@
-export default function () {
-    return <h1>you can make private folder by writing '_' underscore at start of folder name</h1>
+export default function SomePrivateFolder() {
+    return <h1>you can make private folder by writing &apos; _&apos; underscore at start of folder name</h1>
 }

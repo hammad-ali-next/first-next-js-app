@@ -1,4 +1,4 @@
-export default function () {
+export default function Line_Chart() {
     return <h1>line chart</h1>
 }
 
